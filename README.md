@@ -1,26 +1,13 @@
 
-# Dice Jobs Market Analysis 📊
+# Job Market Analysis 📊
 
 **Project Title:** Breaking Into the Market – A Pre-Grad Deep Dive into Job Trends  
-**Author:** Manan Upadhyay  
 **Goal:** This project analyzes real-time job data scraped from Dice.com to understand hiring trends, employment types, in-demand roles, skill distributions, and job posting patterns — especially for new grads entering the data/tech job market.
 
 ---
 
 ## 🧠 Why This Project?
 With graduation around the corner, I didn’t want to apply blindly. I scraped and analyzed thousands of job listings to see what’s really happening in the job market. This repo shares everything — the code, the visuals, the insights.
-
----
-
-## 📁 Repository Structure
-
-```bash
-📦dice-job-analysis/
-├── 📄 Data-Analysis.ipynb         # Jupyter Notebook with full data processing, analysis, and visualizations
-├── 📄 DATA_ANALYTICS_DIC_JOBS_ANALYSIS.pdf  # PDF report summarizing key findings
-├── 📁 scraped_files/              # CSV files or raw scraped data used in analysis
-├── 📄 README.md                   # This file
-```
 
 ---
 
